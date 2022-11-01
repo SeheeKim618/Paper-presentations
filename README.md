@@ -13,7 +13,7 @@ Not fully updated.
 
 * Deep high-resolution representation learning for human pose estimation (CVPR 2021) [[Slide](https://drive.google.com/file/d/1dLWc67KX3WfKSBsMey19Dt3bULFba91G/view?usp=sharing)]
 
-* Superpoint: Self-supervised interest point detection and description (CVPR 2021)
+* Superpoint: Self-supervised interest point detection and description (CVPR 2021) [[Slide](https://drive.google.com/file/d/14gTz62NPeJUWpGpvsm_GKXCWBWEv5fhk/view?usp=sharing)]
 
 * Nerf: Representing scenes as neural radiance fields for view synthesis (CVPR 2021)
 
