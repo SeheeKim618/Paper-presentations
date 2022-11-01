@@ -11,9 +11,9 @@ Not fully updated.
 
 * Rethinking BiSeNet for real-time semantic segmentation (CVPR 2021) [[Slide](https://drive.google.com/file/d/1w4vgHfcTvnPtgmC6cb0UrUTCudOTiNyA/view?usp=sharing)]
 
-* Deep high-resolution representation learning for human pose estimation (CVPR 2021) [[Slide](https://drive.google.com/file/d/1dLWc67KX3WfKSBsMey19Dt3bULFba91G/view?usp=sharing)]
+* Deep high-resolution representation learning for human pose estimation (CVPR 2019) [[Slide](https://drive.google.com/file/d/1dLWc67KX3WfKSBsMey19Dt3bULFba91G/view?usp=sharing)]
 
-* Superpoint: Self-supervised interest point detection and description (CVPR 2021) [[Slide](https://drive.google.com/file/d/14gTz62NPeJUWpGpvsm_GKXCWBWEv5fhk/view?usp=sharing)]
+* Superpoint: Self-supervised interest point detection and description (CVPR 2018) [[Slide](https://drive.google.com/file/d/14gTz62NPeJUWpGpvsm_GKXCWBWEv5fhk/view?usp=sharing)]
 
 * Nerf: Representing scenes as neural radiance fields for view synthesis (CVPR 2021)
 
