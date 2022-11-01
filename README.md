@@ -6,12 +6,12 @@ Not fully updated.
  <br/>
 **Computer Vision**
 
-* Camera distortion-aware 3D human pose estimation in video with optimization-based meta-learning (ICCV 2021) [[Slide]](https://drive.google.com/file/d/12Yw5BvCPCsVGDizSn-79BDpAKe24bTG3/view?usp=sharing)
+* Camera distortion-aware 3D human pose estimation in video with optimization-based meta-learning (ICCV 2021) [[Slide](https://drive.google.com/file/d/12Yw5BvCPCsVGDizSn-79BDpAKe24bTG3/view?usp=sharing)]
 
 
 * Rethinking BiSeNet for real-time semantic segmentation (CVPR 2021) [[Slide](https://drive.google.com/file/d/1w4vgHfcTvnPtgmC6cb0UrUTCudOTiNyA/view?usp=sharing)]
 
-* Deep high-resolution representation learning for human pose estimation (CVPR 2021) [[Slide]](https://drive.google.com/file/d/1dLWc67KX3WfKSBsMey19Dt3bULFba91G/view?usp=sharing)
+* Deep high-resolution representation learning for human pose estimation (CVPR 2021) [[Slide](https://drive.google.com/file/d/1dLWc67KX3WfKSBsMey19Dt3bULFba91G/view?usp=sharing)]
 
 * Superpoint: Self-supervised interest point detection and description (CVPR 2021)
 
