@@ -6,7 +6,8 @@ Not fully updated.
  <br/>
 **Computer Vision**
 
-* Camera distortion-aware 3D human pose estimation in video with optimization-based meta-learning (ICCV 2021)
+* Camera distortion-aware 3D human pose estimation in video with optimization-based meta-learning (ICCV 2021)  
+[Link](https://drive.google.com/file/d/12Yw5BvCPCsVGDizSn-79BDpAKe24bTG3/view?usp=sharing)
 
 * Rethinking BiSeNet for real-time semantic segmentation
 
