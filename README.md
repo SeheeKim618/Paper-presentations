@@ -4,7 +4,7 @@ A collection of paper reviews used for research at JBNU Computer Vision Lab.
 Not fully updated.  
  <br/>
  <br/>
-**### Computer Vision**
+### Computer Vision
 
 * Camera distortion-aware 3D human pose estimation in video with optimization-based meta-learning (ICCV 2021)
 
