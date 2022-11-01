@@ -1,5 +1,18 @@
 # VisionLab-paper-reviews
 
+This repository is 
+
+**Computer Vision**  
+
+* Camera distortion-aware 3D human pose estimation in video with optimization-based meta-learning (ICCV 2021)
+
+* Rethinking BiSeNet for real-time semantic segmentation
+
+* Deep high-resolution representation learning for human pose estimation
+
+* Superpoint: Self-supervised interest point detection and description
+
+* Nerf: Representing scenes as neural radiance fields for view synthesis
 
 # References
 [1] Cho, Hanbyel, et al. "Camera distortion-aware 3D human pose estimation in video with optimization-based meta-learning." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021.  
