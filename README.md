@@ -15,7 +15,7 @@ Not fully updated.
 
 * Superpoint: Self-supervised interest point detection and description (CVPR 2018) [[Slide](https://drive.google.com/file/d/14gTz62NPeJUWpGpvsm_GKXCWBWEv5fhk/view?usp=sharing)]
 
-* Nerf: Representing scenes as neural radiance fields for view synthesis (CVPR 2021)
+* Nerf: Representing scenes as neural radiance fields for view synthesis (ECCV 2020)
 
 ## References
 [1] Cho, Hanbyel, et al. "Camera distortion-aware 3D human pose estimation in video with optimization-based meta-learning." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021.  
