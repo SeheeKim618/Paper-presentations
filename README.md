@@ -6,16 +6,16 @@ Not fully updated.
  <br/>
 **Computer Vision**
 
-* Camera distortion-aware 3D human pose estimation in video with optimization-based meta-learning (ICCV 2021)  
-[[Link]](https://drive.google.com/file/d/12Yw5BvCPCsVGDizSn-79BDpAKe24bTG3/view?usp=sharing)
+* Camera distortion-aware 3D human pose estimation in video with optimization-based meta-learning (ICCV 2021) [[Slide]](https://drive.google.com/file/d/12Yw5BvCPCsVGDizSn-79BDpAKe24bTG3/view?usp=sharing)
 
-* Rethinking BiSeNet for real-time semantic segmentation
 
-* Deep high-resolution representation learning for human pose estimation
+* Rethinking BiSeNet for real-time semantic segmentation (CVPR 2021) [[Slide]](https://drive.google.com/file/d/1w4vgHfcTvnPtgmC6cb0UrUTCudOTiNyA/view?usp=sharing)
 
-* Superpoint: Self-supervised interest point detection and description
+* Deep high-resolution representation learning for human pose estimation (CVPR 2021) [[Slide]](https://drive.google.com/file/d/1dLWc67KX3WfKSBsMey19Dt3bULFba91G/view?usp=sharing)
 
-* Nerf: Representing scenes as neural radiance fields for view synthesis
+* Superpoint: Self-supervised interest point detection and description (CVPR 2021)
+
+* Nerf: Representing scenes as neural radiance fields for view synthesis (CVPR 2021)
 
 ## References
 [1] Cho, Hanbyel, et al. "Camera distortion-aware 3D human pose estimation in video with optimization-based meta-learning." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021.  
