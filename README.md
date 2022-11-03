@@ -1,6 +1,6 @@
 # VisionLab-paper-reviews
 
-A collection of paper reviews used for research at JBNU Computer Vision Lab. I presented attached the slides below to review papers at a seminar in the lab. Not fully updated.  
+A collection of paper reviews used for research at JBNU Computer Vision Lab. I presented attached the slides below to review papers at a seminar. Not fully updated.  
  <br/>
  <br/>
 **Computer Vision**
